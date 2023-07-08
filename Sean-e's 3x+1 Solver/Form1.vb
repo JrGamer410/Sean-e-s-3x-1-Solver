@@ -26,4 +26,8 @@
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         nums.Show()
     End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        Shell("cmd /c https://github.com/JrGamer410/Sean-e-s-3x-1-Solver")
+    End Sub
 End Class
