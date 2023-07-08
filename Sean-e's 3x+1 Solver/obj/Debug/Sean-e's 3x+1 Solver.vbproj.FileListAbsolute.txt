@@ -1,0 +1,14 @@
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\bin\Debug\Sean-e's 3x+1 Solver.exe.config
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\bin\Debug\Sean-e's 3x+1 Solver.exe
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\bin\Debug\Sean-e's 3x+1 Solver.pdb
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\bin\Debug\Sean-e's 3x+1 Solver.xml
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean-e's 3x+1 Solver.vbproj.AssemblyReference.cache
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean-e's 3x+1 Solver.vbproj.SuggestedBindingRedirects.cache
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean_e_s_3x_1_Solver.Form1.resources
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean_e_s_3x_1_Solver.Resources.resources
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean-e's 3x+1 Solver.vbproj.GenerateResource.cache
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean-e's 3x+1 Solver.vbproj.CoreCompileInputs.cache
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean-e's 3x+1 Solver.exe
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean-e's 3x+1 Solver.xml
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean-e's 3x+1 Solver.pdb
+C:\Users\srjam\source\repos\Sean-e's 3x+1 Solver\Sean-e's 3x+1 Solver\obj\Debug\Sean_e_s_3x_1_Solver.nums.resources
